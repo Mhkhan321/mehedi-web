@@ -1,0 +1,75 @@
+*{
+    margin: 0% auto;
+    padding: 0% auto;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+.background{
+    width: 100%;
+    background:url(./img/mhk.jpg);
+    background-size: auto;
+    background-size: cover;
+    padding: 50px 0px;
+    float: left;
+}
+.bg-one{
+    width: 50%;
+    float: left;
+    color: black;
+}
+.bg-one p{
+    margin-top: 20px;
+}
+.bg-one ul{
+    margin-top: 40px;
+}
+.bg-one ul li{
+    list-style: none;
+    margin-top: 6px;
+}
+.bg-one ul li i {
+    border: 2px solid white;
+    padding: 1px;
+    width: 10px;
+    height: 11px;
+    line-height: 11px;
+    border-radius: 50px;
+    text-align: center;
+    margin-right: 12px;
+}
+.bg-one-btn {
+    padding: 13px 30px;
+    border-radius: 20px;
+    margin-top: 40px;
+    background: #fff;
+    border: none;
+    color: black;
+}
+.bg-two {
+    width: 50%;
+    float: left;
+}
+.bg-two-one {
+    width: 356px;
+    margin: 0 auto;
+    padding: 58px 34px;
+    text-align: center;
+    border-radius: 3px;
+    background: rgba(80, 110, 121, 0.9);
+    color: white;
+}
+.bg-two-one p {
+    margin-top: 13px;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+.form-con {
+    width: 300px;
+    height: 40px;
+    padding: 0px 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: none;
+}
